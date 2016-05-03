@@ -4,12 +4,6 @@
     <meta charset="utf8">
     <meta name="description" content="初めてのHTML文章です。">
     <title>はじめてのHTML</title>
-    <!-- コメント -->
-<!--
-    <style>
-        body { background: skyblue; }
-    </style>
--->
     <link rel="stylesheet" href="mystyles.css">
     <link rel="shortcut icon" href="Paomedia-Small-N-Flat-Flower.ico">
   </head>
